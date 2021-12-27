@@ -7,7 +7,7 @@ This project is created as a part of my **Future Ready Talent** virtual internsh
 Future Ready Talent is a virtual internship platform that allows students to gain in-demand technical skills while also working on real-world problems utilising Microsoft Azure and GitHub resources. On completion of the programme, students will receive internship credits as well as access to unique career fairs.
 #### Eligibility
 The program is open to students who will graduate in 2022, 2023, and graduated in 2021. Students from all specializations are open to participate.
-##### [Click Here to know more](https://futurereadytalent.in/)
+##### [Click to know more about FutureReadyTalent](https://futurereadytalent.in/)
 
-## 👇Click below to have  a look.👇
+## 👇Click below to have  a look at **WhatToWatch**👇
 https://whattowatch27.z29.web.core.windows.net/
