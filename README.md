@@ -1,5 +1,5 @@
-# WhatToWatch
-A Web Application allowing you to search for the movie🎬 of your choice. 
+# WhatToWatch🎬
+What to Watch is a web based application that works like a movie search engine helping cinephiles decide on what movie to watch when they have a pool of choice.
 
 This project is created as a part of my **Future Ready Talent** virtual internship offered by AICTE, FutureSkills Prime – a NASSCOM and Ministry of Electronics and Information Technology (MeitY) digital skilling project, Ernst & Young (EY), GitHub, and Quess Corp, along with Microsoft.
 
